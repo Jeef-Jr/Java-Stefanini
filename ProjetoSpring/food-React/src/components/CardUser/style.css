@@ -1,0 +1,25 @@
+
+#cardUser{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    width: 300px;
+    margin: 80px 10px 10px 10px;
+    height: 250px;
+    border-radius: 10px;
+    transition: all 0.2s;
+    color: #ff006e;
+    font-weight: 700;
+    border: 5px solid white;
+}
+
+#cardUser:hover {
+        transform: scale(1.1);
+}
+
+.imgUser{
+   width: 100%;
+   height: 80%;
+   object-fit: cover;
+}

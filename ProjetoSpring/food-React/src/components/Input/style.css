@@ -1,0 +1,14 @@
+.inputForm{
+    height: 30px;
+    text-align: center;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.inputForm:focus {
+    border: none;
+    outline: none;
+}

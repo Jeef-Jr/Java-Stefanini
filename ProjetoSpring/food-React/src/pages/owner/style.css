@@ -1,0 +1,24 @@
+#containerOwner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+}
+
+.logo{
+    width: 300px;
+}
+
+.borderForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    border: 5px solid white;
+    border-radius: 10px;
+    width: 600px;
+    height: 300px;
+}
